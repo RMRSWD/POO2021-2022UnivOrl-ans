@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gestion_Gala/Gestion_Gala.iml" filepath="$PROJECT_DIR$/Gestion_Gala/Gestion_Gala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RessourcesProjetPOO2021_2022.iml" filepath="$PROJECT_DIR$/RessourcesProjetPOO2021_2022.iml" />
+    </modules>
+  </component>
+</project>
